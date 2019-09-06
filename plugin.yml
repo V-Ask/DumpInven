@@ -1,0 +1,9 @@
+main: com.r1ckp1ckle.battlepass.DumpInven
+name: DumpInven
+version: 1.0
+author: r1ckp1ckle
+commands:
+  dump:
+    usage: /<command>
+    description: Dumps entire inventory to the ground
+    permission: dmp.user
