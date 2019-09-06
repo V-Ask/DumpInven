@@ -1,7 +1,7 @@
-package com.r1ckp1ckle.battlepass.commands;
+package com.r1ckp1ckle.dumpinven.commands;
 
-import com.r1ckp1ckle.battlepass.DumpInven;
-import com.r1ckp1ckle.battlepass.events.PlayerInventoryDumpEvent;
+import com.r1ckp1ckle.dumpinven.DumpInven;
+import com.r1ckp1ckle.dumpinven.events.PlayerInventoryDumpEvent;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;

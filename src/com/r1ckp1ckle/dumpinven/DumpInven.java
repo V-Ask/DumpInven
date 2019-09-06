@@ -1,7 +1,7 @@
-package com.r1ckp1ckle.battlepass;
+package com.r1ckp1ckle.dumpinven;
 
-import com.r1ckp1ckle.battlepass.commands.Dump;
-import com.r1ckp1ckle.battlepass.utility.ConfigurationUtils;
+import com.r1ckp1ckle.dumpinven.commands.Dump;
+import com.r1ckp1ckle.dumpinven.utility.ConfigurationUtils;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class DumpInven extends JavaPlugin {

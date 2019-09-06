@@ -1,14 +1,10 @@
-package com.r1ckp1ckle.battlepass.utility;
+package com.r1ckp1ckle.dumpinven.utility;
 
-import com.r1ckp1ckle.battlepass.DumpInven;
-import org.bukkit.configuration.InvalidConfigurationException;
+import com.r1ckp1ckle.dumpinven.DumpInven;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
 
 import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.rmi.server.ExportException;
 import java.util.logging.Level;
 
 public class ConfigurationUtils {

@@ -1,4 +1,4 @@
-package com.r1ckp1ckle.battlepass.events;
+package com.r1ckp1ckle.dumpinven.events;
 
 import org.bukkit.Location;
 import org.bukkit.World;
