@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/../Test server 2/Test server 2/plugins</output-path>
     <root id="archive" name="DumpInven.jar">
       <element id="module-output" name="DumpInven" />
-      <element id="file-copy" path="$PROJECT_DIR$/src/com/r1ckp1ckle/battlepass/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/r1ckp1ckle/dumpinven/config.yml" />
       <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
     </root>
   </artifact>
