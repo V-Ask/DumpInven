@@ -1,4 +1,4 @@
-main: com.r1ckp1ckle.battlepass.DumpInven
+main: com.r1ckp1ckle.dumpinven.DumpInven
 name: DumpInven
 version: 1.0
 author: r1ckp1ckle
